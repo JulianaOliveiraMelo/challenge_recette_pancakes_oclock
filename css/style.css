@@ -1,0 +1,53 @@
+body {
+    background-color: #fff3db;
+    text-align: center;
+    font-family: sans-serif;
+    max-width: 600px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 40px;
+    background-color: #f02425;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 30px;
+    color: #f02425;
+}
+
+h3 {
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+p, ul, ol {
+    text-align: left;
+}
+
+p {
+    color: #333;
+}
+
+strong, em {
+    color: #f02425;
+    font-style: normal;
+}
+
+a {
+    color: #248dd9;
+    font-weight: bold;
+  
+}
+  
+.astuce {
+    font-weight: bold;
+    font-size: 13px;
+    background-color: #fed48a;
+    color: #666;
+    text-align: center;
+    font-style: italic;
+}
